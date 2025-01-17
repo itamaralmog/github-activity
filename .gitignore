@@ -1,2 +1,19 @@
 github_activity
 node_modules
+
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Temporary Files
+*.vs/
+
